@@ -1,4 +1,4 @@
-# cxc, Discord spam(nuke) bot
+# CXC, Discord spam(nuke) bot
 
 # Features
 -can spam '@everyone' in selcted channel of a guild(server), affected by the message send limit
