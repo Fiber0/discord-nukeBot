@@ -6,3 +6,5 @@
 -can generate channels until 500(maximum) is reached
 
 -can type '@everyone' in each channel generated, even after 500 is reached
+
+-read 'cxc manual.txt' for more information
