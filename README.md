@@ -1,1 +1,1 @@
-# cxc-discord-spam-bot
+# cxc, is a Discord spam(nuke) bot
