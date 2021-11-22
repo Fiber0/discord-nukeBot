@@ -1,0 +1,16 @@
+		cxc manual
+
+terms of use:
+	Author is not responsible for any damages caused by the bot (the bot should be only used for educational purposes).
+	Author does not guarantee bot's functionality
+
+commands:
+
+	'based'- will stop all ongoing bot actions
+	'xd'- the bot will start spamming '@everyone' in current channel
+	'cs' - the bot will generate text channels, until 500(maximum) is reached
+	'ok'- same as 'cs' but it will ping '@everyone' in each generated channel, even after 500 is reached
+
+tips:
+	you can type 'ok' command multiple times, to make the bot spam more
+	the current version is compatible with only one server
