@@ -11,3 +11,10 @@
 
 # Setup
 
+copy content from cxc folder and save it in folder on your desktop
+
+open CXC.py file in python editor(you can use idle, pycharm, replit.com...)
+
+change 'token' (at the end of the file) to your generated discord bot token, you can watch this video, if you're having trouble with this step:
+https://www.youtube.com/watch?v=SPTfmiYiuok&ab_channel=freeCodeCamp.org
+
